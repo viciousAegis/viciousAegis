@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @viciousAegis aka Akshit :)
-- 👀 I’m interested in Open Source, Machine Learning and App Development
-- 🌱 I’m currently learning Java, Kotlin, Swift, C, C++
-- 💞️ I’m looking to collaborate on beginner open source projects/issues
-- 📈 Skills: Python, C, JS, HTML, CSS
-- 📫 How to reach me - my email: akshitsinha3@gmail.com
+Interested in Graph Neural Networks, Interpretable & Safe AI and multi-agent systems
 
 <!---
 viciousAegis/viciousAegis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
